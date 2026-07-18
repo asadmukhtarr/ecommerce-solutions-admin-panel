@@ -53,91 +53,150 @@ screenshots/
 └── website_management/
 ```
 
-## 📸 Screenshots
+# 📸 Project Screenshots
 
-### Login
-![](screenshots/login.png)
+## 🔐 Login
+![Login](./login.png)
 
-### Dashboard
-![](screenshots/dashboard.png)
+---
 
-### Customers
-![](screenshots/customers/customers.png)
+## 📊 Dashboard
+![Dashboard](./dashboard.png)
 
-### Orders
-![](screenshots/orders/orders.png)
+---
 
-**Pending**
-![](screenshots/orders/pending.png)
+# 👥 Customers
 
-**Processing**
-![](screenshots/orders/processing.png)
+![Customers](./customers/customers.png)
 
-**Shipped**
-![](screenshots/orders/shipped.png)
+---
 
-**Delivered**
-![](screenshots/orders/delivered.png)
+# 📦 Orders
 
-### Products
-![](screenshots/products/products.png)
+### All Orders
+![Orders](./orders/orders.png)
 
-![](screenshots/products/new_product.png)
+### Pending Orders
+![Pending Orders](./orders/pending.png)
 
-![](screenshots/products/categories.png)
+### Processing Orders
+![Processing Orders](./orders/processing.png)
 
-![](screenshots/products/brands.png)
+### Shipped Orders
+![Shipped Orders](./orders/shipped.png)
 
-![](screenshots/products/inventory.png)
+### Delivered Orders
+![Delivered Orders](./orders/delivered.png)
 
-### Payments
-![](screenshots/payments/transactions.png)
+---
 
-![](screenshots/payments/payment_methods.png)
+# 🛍️ Products
 
-### Sales
-![](screenshots/sales/coupons.png)
+### All Products
+![Products](./products/products.png)
 
-![](screenshots/sales/flash_sales.png)
+### Add New Product
+![New Product](./products/new_product.png)
 
-### Shipping
-![](screenshots/shippings/shipping_zones.png)
+### Categories
+![Categories](./products/categories.png)
 
-![](screenshots/shippings/shipping_methods.png)
+### Brands
+![Brands](./products/brands.png)
 
-### Reports
-![](screenshots/reports/sales_reports.png)
+### Inventory
+![Inventory](./products/inventory.png)
 
-![](screenshots/reports/product_reports.png)
+---
+
+# 💳 Payments
+
+### Transactions
+![Transactions](./payments/transactions.png)
+
+### Payment Methods
+![Payment Methods](./payments/payment_methods.png)
+
+---
+
+# 🏷️ Sales & Promotions
+
+### Coupons
+![Coupons](./sales/coupons.png)
+
+### Flash Sales
+![Flash Sales](./sales/flash_sales.png)
+
+---
+
+# 🚚 Shipping
+
+### Shipping Zones
+![Shipping Zones](./shippings/shipping_zones.png)
+
+### Shipping Methods
+![Shipping Methods](./shippings/shipping_methods.png)
+
+---
+
+# 📈 Reports
+
+### Sales Reports
+![Sales Reports](./reports/sales_reports.png)
+
+### Product Reports
+![Product Reports](./reports/product_reports.png)
+
+---
+
+# 👨‍💼 User Management
 
 ### Users
-![](screenshots/users/users.png)
+![Users](./users/users.png)
 
-![](screenshots/users/add_new.png)
+### Add New User
+![Add User](./users/add_new.png)
 
-![](screenshots/users/roles_permissions.png)
+### Roles & Permissions
+![Roles](./users/roles_permissions.png)
 
-![](screenshots/users/activity.png)
+### Activity Logs
+![Activity](./users/activity.png)
 
-### Website Management
-![](screenshots/website_management/slider.png)
+---
 
-![](screenshots/website_management/pages.png)
+# 🌐 Website Management
 
-![](screenshots/website_management/banners.png)
+### Home Slider
+![Slider](./website_management/slider.png)
 
-![](screenshots/website_management/menu_manager.png)
+### Pages
+![Pages](./website_management/pages.png)
 
-![](screenshots/website_management/footer_settings.png)
+### Banners
+![Banners](./website_management/banners.png)
 
-![](screenshots/website_management/blog_posts.png)
+### Menu Manager
+![Menu Manager](./website_management/menu_manager.png)
 
-![](screenshots/website_management/Seo_Settings.png)
+### Footer Settings
+![Footer](./website_management/footer_settings.png)
 
-### Settings
-![](screenshots/Settings/General_settings.png)
+### Blog Posts
+![Blog](./website_management/blog_posts.png)
 
-![](screenshots/Settings/payment_gateways.png)
+### SEO Settings
+![SEO](./website_management/Seo_Settings.png)
+
+---
+
+# ⚙️ Settings
+
+### General Settings
+![General Settings](./Settings/General_settings.png)
+
+### Payment Gateways
+![Payment Gateways](./Settings/payment_gateways.png)
 
 ## ⚙️ Installation
 
